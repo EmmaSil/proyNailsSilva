@@ -1,0 +1,69 @@
+
+[
+  [
+    {"id":"dN1", "img":"/img/img.nature/dibujoG1.jpeg"},
+    {"id":"dN2", "img":"/img/img.nature/dibujoG2.jpeg"},
+    {"id":"dN3", "img":"/img/img.nature/dibujoG3.jpeg"},
+    {"id":"dN4", "img":"/img/img.nature/dibujoG4.jpeg"},
+    {"id":"dN5", "img":"/img/img.nature/dibujoG5.jpeg"},
+    {"id":"dN6", "img":"/img/img.nature/dibujoG6.jpeg"}
+  ],
+  [
+    {"id":"eN1", "img":"/img/img.nature/efectG1.jpeg"},
+    {"id":"eN2", "img":"/img/img.nature/efectG2.jpeg"},
+    {"id":"eN3", "img":"/img/img.nature/efectG3.jpeg"},
+    {"id":"eN4", "img":"/img/img.nature/efectG4.jpeg"},
+    {"id":"eN5", "img":"/img/img.nature/efectG5.jpeg"},
+    {"id":"eN6", "img":"/img/img.nature/efectG6.jpeg"}
+  ],
+  [
+    {"id":"lN1", "img":"/img/img.nature/lisoG1.jpeg"},
+    {"id":"lN2", "img":"/img/img.nature/lisoG2.jpeg"},
+    {"id":"lN3", "img":"/img/img.nature/lisoG3.jpeg"},
+    {"id":"lN4", "img":"/img/img.nature/lisoG4.jpeg"},
+    {"id":"lN5", "img":"/img/img.nature/lisoG5.jpeg"},
+    {"id":"lN6", "img":"/img/img.nature/lisoG6.jpeg"}
+  ],
+  
+  [
+    {"id":"tN1", "img":"/img/img.nature/transG1.jpeg"},
+    {"id":"tN2", "img":"/img/img.nature/transG2.jpeg"},
+    {"id":"tN3", "img":"/img/img.nature/transG3.jpeg"},
+    {"id":"tN4", "img":"/img/img.nature/transG4.jpeg"},
+    {"id":"tN5", "img":"/img/img.nature/transG5.jpeg"},
+    {"id":"tN6", "img":"/img/img.nature/transG6.jpeg"}
+  ],
+  [
+    {"id":"dA1", "img":"/img/img.acrylic/dibujoE1.jpg"},
+    {"id":"dA2", "img":"/img/img.acrylic/dibujoE2.jpg"},
+    {"id":"dA3", "img":"/img/img.acrylic/dibujoE3.jpg"},
+    {"id":"dA4", "img":"/img/img.acrylic/dibujoE4.jpg"},
+    {"id":"dA5", "img":"/img/img.acrylic/dibujoE5.jpg"},
+    {"id":"dA6", "img":"/img/img.acrylic/dibujoE6.jpg"}
+ ],
+ [
+  {"id":"eA1", "img":"/img/img.acrylic/efectE1.jpg"},
+  {"id":"eA2", "img":"/img/img.acrylic/efectE2.jpg"},
+  {"id":"eA3", "img":"/img/img.acrylic/efectE3.jpg"},
+  {"id":"eA4", "img":"/img/img.acrylic/efectE4.jpg"},
+  {"id":"eA5", "img":"/img/img.acrylic/efectE5.jpg"},
+  {"id":"eA6", "img":"/img/img.acrylic/efectE6.jpg"}
+],
+  [
+    {"id":"lA1", "img":"/img/img.acrylic/lisoE1.jpg"},
+    {"id":"lA2", "img":"/img/img.acrylic/lisoE2.jpg"},
+    {"id":"lA3", "img":"/img/img.acrylic/lisoE3.jpg"},
+    {"id":"lA4", "img":"/img/img.acrylic/lisoE4.jpg"},
+    {"id":"lA5", "img":"/img/img.acrylic/lisoE5.jpg"},
+    {"id":"lA6", "img":"/img/img.acrylic/lisoE6.jpg"}
+  ],
+  
+  [
+    {"id":"tA1", "img":"/img/img.acrylic/transE1.jpg"},
+    {"id":"tA2", "img":"/img/img.acrylic/transE2.jpg"},
+    {"id":"tA3", "img":"/img/img.acrylic/transE3.jpg"},
+    {"id":"tA4", "img":"/img/img.acrylic/transE4.jpg"},
+    {"id":"tA5", "img":"/img/img.acrylic/transE5.jpg"},
+    {"id":"tA6", "img":"/img/img.acrylic/transE6.jpg"}
+  ]
+  ]
